@@ -1,29 +1,13 @@
-# pohyyyi
+Sapper Game – это классическая игра "Сапёр", созданная с использованием Vue.js. Проект включает в себя базовые страницы, управление настройками и таблицу лидеров.
 
-This template should help get you started developing with Vue 3 in Vite.
+Функционал:
+✅ Главная страница с приветствием
+✅ Настройки игры
+✅ Таблица лидеров (хранит лучших игроков)
+✅ Простая и понятная навигация
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+Технологии:
+Vue 3
+Vue Router
+JavaScript
+HTML & CSS
