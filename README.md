@@ -15,7 +15,7 @@ Sapper Game – это классическая игра "Сапёр", реал�
 /index.html – начальный HTML файл для проекта.
 
 Технологии:
-Vue 3
-Vue Router
-JavaScript
-HTML & CSS
+Vue 3.
+Vue Router.
+JavaScript.
+HTML & CSS.
