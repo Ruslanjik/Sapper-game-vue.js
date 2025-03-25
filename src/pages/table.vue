@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Leaderboard</h1>
-    <router-link class="home_back" to="/">Back to Home</router-link>
+
     <table>
       <thead>
         <tr>
@@ -23,6 +23,7 @@
       </tbody>
     </table>
   </div>
+  <router-link class="home_back" to="/">Back to Home</router-link>
 </template>
 
 <script setup>
@@ -58,6 +59,7 @@ h1
 {
 
   color: black;
+  text-align: center;
 }
 </style>
 
