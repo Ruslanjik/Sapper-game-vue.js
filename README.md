@@ -18,4 +18,7 @@ Sapper Game – это классическая игра "Сапёр", реал�
 Vue 3.  
 Vue Router.  
 JavaScript.  
-HTML & CSS.  
+HTML & CSS.      
+
+
+Git pages:https://ruslanjik.github.io/Sapper-game-vue.js/
